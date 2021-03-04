@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199715150241",
+    "project_id": "karunyafeed",
+    "storage_bucket": "karunyafeed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199715150241:android:763cbc08894eb62d21d3e0",
+        "android_client_info": {
+          "package_name": "com.karunyafeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199715150241-90q78ac8dlcoqaikihq7mcmtv090a52s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkJ7-L_tC2fyeRfGmohoc7vL-Vby2N1C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199715150241-90q78ac8dlcoqaikihq7mcmtv090a52s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
